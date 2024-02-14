@@ -73,7 +73,7 @@
 - ----------------  PULL COMMANDS --------------
 24. git pull origin main 
 - Used to fetch and download content from a remote app and immediately update the local repo to match that content.
-25. We can add other command here
+25. We can add others command here 
 111. or create a new repository on the command line
 echo "# git_commands" >> README.md
 git init
