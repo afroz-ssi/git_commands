@@ -53,7 +53,26 @@
 14. git config --list
 
 - listout the username , email that we used at the time of configurations.
-
+- ---------------- BRANCH COMMANDS --------------
+15. git branch 
+- To check in which branch we are currently.
+16. git branch -M main 
+- To rename default branch master to main
+17. git checkout <branch_name>
+- To navigate branch means switch to branch
+19. git checkout -b <branch_name>
+- To create new branch
+20. git branch -d <branch_name>
+- To delete the branch
+- ---------------- BRANCH MERGING COMMANDS --------------
+21. git diff <branch_name>
+- To compares commits, branches, files and more.
+22. git merger <branch_name>
+- To merger 2 branches
+23. Way-2 PR(Pull Request) by GUI
+- ----------------  PULL COMMANDS --------------
+24. git pull origin main 
+- Used to fetch and download content from a remote app and immediately update the local repo to match that content.
 
 111. or create a new repository on the command line
 echo "# git_commands" >> README.md
